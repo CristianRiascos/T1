@@ -6,4 +6,4 @@ El código inicia con una pregunta al usuario sobre cuántos nodos van a ser ing
 
 Por su parte, el struct de los nodos se compone de 2 variables: int que corresponde al número entero asociado al nodo y nextNode que es un puntero hacia el mismo struct y almacena el nodo al que está enlazado.
 
-Nota: Hubo problemas respecto al makefile y removeEntry
+Nota: Hubo problemas respecto al makefile y removeNode
